@@ -18,12 +18,12 @@ que estén interesadas en la ciberseguridad.
 
 ## Índice de contenidos
 - [1. Introducción a la ciberseguridad](#1-introducción-a-la-ciberseguridad) <br>
-   - [1.1 Algunos fundamentos de la ciberseguridad](https://github.com/paezdavid/ciberseguridad-essentials/new/main?readme=1#11-algunos-fundamentos-de-la-ciberseguridad) <br>
-   - [1.2 Posibles amenazas](https://github.com/paezdavid/ciberseguridad-essentials/new/main?readme=1#12-posibles-amenazas) <br>
-   - [1.3 Cómo nos persuaden los criminales](https://github.com/paezdavid/ciberseguridad-essentials/new/main?readme=1#13-c%C3%B3mo-nos-persuaden-los-criminales)
-- [2. Por qué la ciberseguridad es importante y cómo aplicarla](https://github.com/paezdavid/ciberseguridad-essentials/new/main?readme=1#2-por-qu%C3%A9-la-ciberseguridad-es-importante-y-c%C3%B3mo-aplicarla)
-   - [2.1 Conocer los fundamentos de la ciberseguridad](https://github.com/paezdavid/ciberseguridad-essentials/new/main?readme=1#21-conocer-los-fundamentos-de-la-ciberseguridad) <br>
-   - [2.2 Qué tener en cuenta](https://github.com/paezdavid/ciberseguridad-essentials/new/main?readme=1#22-qu%C3%A9-tener-en-cuenta)
+   - [1.1 Algunos fundamentos de la ciberseguridad](#11-algunos-fundamentos-de-la-ciberseguridad) <br>
+   - [1.2 Posibles amenazas](#12-posibles-amenazas) <br>
+   - [1.3 Cómo nos persuaden los criminales](#13-c%C3%B3mo-nos-persuaden-los-criminales)
+- [2. Por qué la ciberseguridad es importante y cómo aplicarla](#2-por-qu%C3%A9-la-ciberseguridad-es-importante-y-c%C3%B3mo-aplicarla)
+   - [2.1 Conocer los fundamentos de la ciberseguridad](#21-conocer-los-fundamentos-de-la-ciberseguridad) <br>
+   - [2.2 Qué tener en cuenta](#22-qu%C3%A9-tener-en-cuenta)
 
 ## 1. **Introducción a la Ciberseguridad**
 
