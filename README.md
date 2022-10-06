@@ -1,7 +1,7 @@
 
 ## De qué trata este proyecto
 
-Por el [#CybersecurityAwarenessMonth 2022](https://www.cisa.gov/cybersecurity-awareness-month), me tomé la libertad de traducir y adaptar al español el material educativo sobre ciberseguridad proveído por la Cybersecurity 
+Por el [#CybersecurityAwarenessMonth 2022](https://www.cisa.gov/cybersecurity-awareness-month), me tomé la libertad de traducir y adaptar al español el [material educativo sobre ciberseguridad](https://www.cisa.gov/sites/default/files/publications/CAM22_PublicToolkit_FINAL_OCC_CSD_DIR_508c.pdf) proveído por la Cybersecurity 
 and Infrastructure Security Agency (CISA). Este proyecto surge ante la necesidad de tener más recursos de calidad para el aprendizaje 
 y la enseñanza de la ciberseguridad en el idioma español.
 
