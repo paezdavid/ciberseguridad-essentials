@@ -6,7 +6,7 @@ and Infrastructure Security Agency (CISA). Este proyecto surge ante la necesidad
 y la enseñanza de la ciberseguridad en el idioma español.
 
 A lo largo del mes de Octubre 2022, voy a publicar más traducciones sobre temas específicos que enseñen y expliquen conceptos básicos 
-de cómo reforzar la seguridad informática en nuestra vida diaria. El contenido también irá siendo adaptado a un formato de hilos de Twitter, 
+de cómo reforzar la seguridad informática en nuestra vida diaria. El contenido también irá siendo adaptado a un formato de [hilos de Twitter](https://twitter.com/tolkraft_/status/1578074042657128461), 
 de tal manera que el alcance del proyecto sea mayor. 
 
 Esta es una traducción independiente que fue adaptada del texto de CISA y en la cual se hicieron cambios estilísticos para adecuar el texto 
