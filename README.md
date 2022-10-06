@@ -17,7 +17,7 @@ insto a que me lo señalen y colectivamente podamos hacer de este un material de
 que estén interesadas en la ciberseguridad.
 
 ## Índice de contenidos
-- [1. Introducción a la ciberseguridad](https://github.com/paezdavid/ciberseguridad-essentials/new/main?readme=1#1-introducci%C3%B3n-a-la-ciberseguridad) <br>
+- [1. Introducción a la ciberseguridad](#1-introducción-a-la-ciberseguridad) <br>
    - [1.1 Algunos fundamentos de la ciberseguridad](https://github.com/paezdavid/ciberseguridad-essentials/new/main?readme=1#11-algunos-fundamentos-de-la-ciberseguridad) <br>
    - [1.2 Posibles amenazas](https://github.com/paezdavid/ciberseguridad-essentials/new/main?readme=1#12-posibles-amenazas) <br>
    - [1.3 Cómo nos persuaden los criminales](https://github.com/paezdavid/ciberseguridad-essentials/new/main?readme=1#13-c%C3%B3mo-nos-persuaden-los-criminales)
